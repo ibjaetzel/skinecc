@@ -507,7 +507,7 @@ div.ipsPanel.ipsDWDReport .title {
 	background-image: url(img/IBJ_ESZ_ECC_1.svg);
 	background-repeat: no-repeat;
 	background-size: contain;
-	position: fixed;
+	position: center;
 	height: 327px;
 	width: 313px;
 	top: 50%;
