@@ -533,7 +533,7 @@ div.ipsPanel.ipsDWDReport .title {
     border-color: lightgray;
     margin: 0px 5%;
     width: 200px;
-    padding: 10px;
+    padding: 0px;
     height: 120px;
     top: calc(50% - 70px); /* center - (height / 2 + padding) */ }
 
