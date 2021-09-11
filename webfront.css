@@ -529,11 +529,11 @@ div.ipsPanel.ipsDWDReport .title {
 
 .ipsLogin>.content>.configurators>div {
 	background-color: white;
-    border: 1px solid;
+    border: 0px solid;
     border-color: lightgray;
     margin: 0px 5%;
-    width: 200px;
-    padding: 0px;
+    width: 300px;
+    padding: 10px;
     height: 120px;
     top: calc(50% - 70px); /* center - (height / 2 + padding) */ }
 
