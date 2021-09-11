@@ -530,7 +530,7 @@ div.ipsPanel.ipsDWDReport .title {
 .ipsLogin>.content>.configurators>div {
 	background-color: white;
     border: 0px solid;
-    border-color: lightgray;
+    border-color: white;
     margin: 0px 5%;
     width: 200px;
     padding: 10px;
@@ -541,8 +541,8 @@ div.ipsPanel.ipsDWDReport .title {
     margin-top: -1px;
 	font-weight: bold;
 	background-color: white;
-	/*box-shadow: 0px 9px 5px -5px rgb(182, 182, 182); }
-*/	
+	box-shadow: 0px 9px 5px -5px rgb(182, 182, 182); }
+	
 .ipsLogin>.content>.configurators>div:hover>.title {
 	margin-top: 1px; }
 	
